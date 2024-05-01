@@ -1,2 +1,1 @@
-# git-zafanie1
-# git-zadanie1
+# git-zadanie2
